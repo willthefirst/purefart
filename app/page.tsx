@@ -15,7 +15,6 @@ export default function Home() {
           <li>A small amount of my pure, concentrated fart</li>
           <li>Bespoke name and description</li>
           <li>Provenance</li>
-
         </ul>
       </section>
       <section className="py-8 text-center">
